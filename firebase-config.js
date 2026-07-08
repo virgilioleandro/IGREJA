@@ -6,10 +6,10 @@
 // precisam estar corretas para proteger CPF, endereço, telefone e dados de crianças.
 
 export const firebaseConfig = {
- apiKey: "AIzaSyBZCd7sNObpGN0CMD0Kol7UZP7nxHgkRjo",
-  authDomain: "igreja-site-memoria.firebaseapp.com",
-  projectId: "igreja-site-memoria",
-  storageBucket: "igreja-site-memoria.firebasestorage.app",
-  messagingSenderId: "900976753246",
-  appId: "1:900976753246:web:3921418a9f20dd5d46d2cf"
+  apiKey: "AIzaSyDKjC6xs40MYQHRp0ys0lrJVTRjAtk-2qM",
+  authDomain: "acao-social-pastoral.firebaseapp.com",
+  projectId: "acao-social-pastoral",
+  storageBucket: "acao-social-pastoral.firebasestorage.app",
+  messagingSenderId: "619338490281",
+  appId: "1:619338490281:web:4b5de5dec0ca76143fe4b8"
 };
